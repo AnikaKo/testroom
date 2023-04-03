@@ -5,8 +5,15 @@ public class Main {
         GirlsRoom a = new GirlsRoom();
         a.bed="red";
 
+
     Bedroom c = new Bedroom();
     c.table="working";
+
+        boysRoom br= new boysRoom();
+        br.guitar="2";
+        br.wood="5";
+
+ 
 
     }
 }
