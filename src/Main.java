@@ -3,7 +3,7 @@ public class Main {
 
         System.out.println("Hello world!");
         GirlsRoom a = new GirlsRoom();
-        a.bed="red";
+        a.bed="blue";
 
 
     Bedroom c = new Bedroom();
