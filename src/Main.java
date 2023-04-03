@@ -3,6 +3,12 @@ public class Main {
 
         System.out.println("Hello world!");
         GirlsRoom a = new GirlsRoom();
-        a.bed="red"
+        a.bed="red";
+
+        boysRoom br= new boysRoom();
+        br.guitar="2";
+        br.wood="5";
+
+
     }
 }
